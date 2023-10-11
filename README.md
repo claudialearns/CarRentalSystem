@@ -4,6 +4,20 @@ The Car Rental System was created using the C++ programming language. This syste
 
 # What is a Car Rental System?
 
-# Features
+# Basic Features
+
+Add Car: This operation is necessary when user adds a new car. This option takes inputs of car details.
+
+Update Car Details: This function updates details of car in the car records.
+
+Remove Car: This operation clears the existing record of a car from the records. So, be careful while performing this operation because the system could loose any important data.
+
+List all cars: Show all the available cars from the record of car rental system.
+
+Check Car.
+
+Rent a Car.
+
+Modify Rent Records.
 
 # Intructions to run
